@@ -1,0 +1,40 @@
+C:\Users\Darren\AppData\Local\Temporary Projects\stub\bin\Debug\stub.exe
+C:\Users\Darren\AppData\Local\Temporary Projects\stub\bin\Debug\stub.pdb
+C:\Users\Darren\AppData\Local\Temporary Projects\stub\bin\Debug\stub.xml
+C:\Users\Darren\AppData\Local\Temporary Projects\stub\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Darren\AppData\Local\Temporary Projects\stub\obj\Debug\stub.Form1.resources
+C:\Users\Darren\AppData\Local\Temporary Projects\stub\obj\Debug\stub.Resources.resources
+C:\Users\Darren\AppData\Local\Temporary Projects\stub\obj\Debug\stub.vbproj.GenerateResource.Cache
+C:\Users\Darren\AppData\Local\Temporary Projects\stub\obj\Debug\stub.exe
+C:\Users\Darren\AppData\Local\Temporary Projects\stub\obj\Debug\stub.xml
+C:\Users\Darren\AppData\Local\Temporary Projects\stub\obj\Debug\stub.pdb
+C:\Users\Darren\Desktop\DT Logger\Keylogger\3.0\stub\stub\obj\Debug\stub.exe
+C:\Users\Darren\Desktop\DT Logger\Keylogger\3.0\stub\stub\obj\Debug\stub.xml
+C:\Users\Darren\Desktop\DT Logger\Keylogger\3.0\stub\stub\obj\Debug\stub.pdb
+C:\Users\Darren\Desktop\DT Logger\Keylogger\3.0\stub\stub\bin\Debug\stub.exe.config
+C:\Users\Darren\Desktop\DT Logger\Keylogger\3.0\stub\stub\bin\Debug\stub.exe
+C:\Users\Darren\Desktop\DT Logger\Keylogger\3.0\stub\stub\bin\Debug\stub.pdb
+C:\Users\Darren\Desktop\DT Logger\Keylogger\3.0\stub\stub\bin\Debug\stub.xml
+C:\Users\Darren\Desktop\DT Logger\Keylogger\3.0\stub\stub\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Darren\Desktop\DT Logger\Keylogger\3.0\stub\stub\obj\Debug\stub.Form1.resources
+C:\Users\Darren\Desktop\DT Logger\Keylogger\3.0\stub\stub\obj\Debug\stub.Resources.resources
+C:\Users\Darren\Desktop\DT Logger\Keylogger\3.0\stub\stub\obj\Debug\stub.vbproj.GenerateResource.Cache
+C:\Users\Darren\Desktop\Projects\DT Logger\Keylogger\4.1\stub\stub\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Darren\Desktop\Projects\DT Logger\Keylogger\4.1\stub\stub\obj\Debug\stub.Form1.resources
+C:\Users\Darren\Desktop\Projects\DT Logger\Keylogger\4.1\stub\stub\obj\Debug\stub.Resources.resources
+C:\Users\Darren\Desktop\Projects\DT Logger\Keylogger\4.1\stub\stub\obj\Debug\stub.vbproj.GenerateResource.Cache
+C:\Users\Darren\Desktop\Projects\DT Logger\Keylogger\4.1\stub\stub\obj\Debug\stub.exe
+C:\Users\Darren\Desktop\Projects\DT Logger\Keylogger\4.1\stub\stub\obj\Debug\stub.xml
+C:\Users\Darren\Desktop\Projects\DT Logger\Keylogger\4.1\stub\stub\obj\Debug\stub.pdb
+C:\Users\Darren\Desktop\Projects\DT Logger\Keylogger\4.1\stub\stub\bin\Debug\stub.exe.config
+C:\Users\isaque\Desktop\Doctor Logger 4.1\Doctor Logger 4.1\stub\stub\bin\Debug\stub.exe.config
+C:\Users\isaque\Desktop\Doctor Logger 4.1\Doctor Logger 4.1\stub\stub\bin\Debug\stub.exe
+C:\Users\isaque\Desktop\Doctor Logger 4.1\Doctor Logger 4.1\stub\stub\bin\Debug\stub.pdb
+C:\Users\isaque\Desktop\Doctor Logger 4.1\Doctor Logger 4.1\stub\stub\bin\Debug\stub.xml
+C:\Users\isaque\Desktop\Doctor Logger 4.1\Doctor Logger 4.1\stub\stub\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\isaque\Desktop\Doctor Logger 4.1\Doctor Logger 4.1\stub\stub\obj\Debug\stub.Form1.resources
+C:\Users\isaque\Desktop\Doctor Logger 4.1\Doctor Logger 4.1\stub\stub\obj\Debug\stub.Resources.resources
+C:\Users\isaque\Desktop\Doctor Logger 4.1\Doctor Logger 4.1\stub\stub\obj\Debug\stub.vbproj.GenerateResource.Cache
+C:\Users\isaque\Desktop\Doctor Logger 4.1\Doctor Logger 4.1\stub\stub\obj\Debug\stub.exe
+C:\Users\isaque\Desktop\Doctor Logger 4.1\Doctor Logger 4.1\stub\stub\obj\Debug\stub.xml
+C:\Users\isaque\Desktop\Doctor Logger 4.1\Doctor Logger 4.1\stub\stub\obj\Debug\stub.pdb
